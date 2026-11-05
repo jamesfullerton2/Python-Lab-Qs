@@ -1,0 +1,6 @@
+James' Rainfall Report
+=========================
+Total rainfall (in mm):45.0
+Number of rainy days:6
+Days over 10 mm:[14.2, 18.7]
+Rain over the last 3 days:[0.5, 18.7, 3.1]
